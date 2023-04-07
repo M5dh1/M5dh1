@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebraheem Alkhars.
-- 👀 I’m interested in Software Development, Back-End Development.
-- 🌱 I’m currently studying Information Systems major in King Faisal University.
+- 👀 I’m interested in Software Development, Data analysis.
+- 🌱 I’m currently studying Computer Information Systems major in King Faisal University.
 - 📫 How to reach me:
 -     Mobile phone: +966540888363
 -     Email Address: ebraheem6431@gmail.com
