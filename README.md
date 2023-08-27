@@ -6,6 +6,8 @@
 -     +966540888363
 -   Email Address:
 -     ebraheem6431@gmail.com
+-   LinkedIn:
+-     https://www.linkedin.com/in/ebraheem-alkhars/
 
 <!---
 M5dh1/M5dh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
