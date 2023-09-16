@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ebraheem Alkhars.
-- 👀 I’m interested in Software Development, Data analysis.
+- 👀 I’m interested in Data analysis, and Data Visualization.
 - 🌱 I’m fresh gradaute in Computer Information Systems major from King Faisal University.
 - 📫 How to reach me:
 -   Mobile phone:
